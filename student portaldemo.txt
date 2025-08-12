@@ -1,0 +1,6 @@
+Name:ch.Srilakshmi
+Suc:2358250201
+Hall ticket no:230377401042
+Dept:BCA
+Branch:ASCS
+Section:04
